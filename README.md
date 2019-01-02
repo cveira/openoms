@@ -10,4 +10,4 @@ Have a look at [Demo Site](http://thinkinbig.org/oms/) if you want to see it in 
 - user and password: demo-AsReporter
 - user and password: demo-AsMember
 
-_Latest released version: v1.2a2-20080302-0 (2008/3/2)_
+_Latest released version: v2.19.0-20190102-0 (2019/01/02)_
